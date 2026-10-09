@@ -1,0 +1,20 @@
+git init
+
+git status: rama actual y comit actual
+
+code . : ABRE VISUAL CODE EN LA CARPETA actual
+
+git add <file> : agrega archivo a mi proximo comit"le stoy dando la indicacion para que permanezca en el reposit
+
+git add . : agrega todos los archivos pendientes al proximo comit
+
+commit: conjunto de cambios para guardar en mi repositorio
+git commit -m"asunto"
+
+.gitignore : lista de archivos que nunca se agregaran al repositorio
+
+renombrar rama:
+git branch -M nuevo_nombre
+
+enlazar repositorio local con repo remoto
+git remote add origin url_del_repositorio_remoto
